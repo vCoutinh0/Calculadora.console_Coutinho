@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "calculadora.console": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "SQLSERVER_CONNECTION_STRING": "Server={{SERVER}};Database=calculadora_frwk;Trusted_Connection=True;Encrypt=True;TrustServerCertificate=True;"
+      }
+    }
+  }
+}
